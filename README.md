@@ -24,4 +24,4 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 
 - [📃 Java Methoden ](https://www.programmierenlernenhq.de/methoden-in-java-was-sind-methoden-und-wie-werden-sie-verwendet/)
-- [🎥 Java Objektorientierung  ]https://www.youtube.com/watch?v=xmSGwipW6NQ&t=72s)
+- [🎥 Java Objektorientierung](https://www.youtube.com/watch?v=xmSGwipW6NQ&t=72s)
